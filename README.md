@@ -1,3 +1,6 @@
+# Link to code
+[GUI 1](https://github.com/KuroFoxCoder/Java-GUI-exercises/blob/main/GUI/code.md) [GUI 2](https://github.com/KuroFoxCoder/Java-GUI-exercises/blob/main/GUI%202/code.md) [GUI 3](https://github.com/KuroFoxCoder/Java-GUI-exercises/blob/main/GUI%203/code.md)
+
 # Video
 [Here](https://drive.google.com/file/d/1Ljnn8qAYC0_3YtBMKkaw0nATvybGTGCn/view?usp=sharing)
 # Thought Processes
